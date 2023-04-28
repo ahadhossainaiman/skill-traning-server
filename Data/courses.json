@@ -1,0 +1,93 @@
+{
+    "courses": [
+      {
+        "uid": "c001",
+        "category_id": "01",
+        "title": "Introduction to Python Programming",
+        "category": "Programming Languages",
+        "instructor": "John Smith",
+        "duration": "6 weeks",
+        "description": "Learn the basics of programming with Python and become proficient in writing code.",
+        "price": "$99",
+        "image_url":"https://i.postimg.cc/RV1mj15R/Python-Thumbnail-b6e99c74df.png"
+      },
+      {
+        "uid": "c002",
+        "category_id": "02",
+        "title": "Web Development with HTML and CSS",
+        "category": "Web Technology",
+        "instructor": "Jane Doe",
+        "duration": "8 weeks",
+        "description": "Learn the fundamentals of web development with HTML and CSS.",
+        "price": "$149",
+        "image_url": "https://i.postimg.cc/9MWpxh2V/screen-html5-devs.jpg"
+      },
+      {
+        "uid": "c003",
+        "category_id": "03",
+        "title": "Data Structures and Algorithms with Java",
+        "category": "Computer Science",
+        "instructor": "Bob Johnson",
+        "duration": "10 weeks",
+        "description": "Master the fundamentals of data structures and algorithms with Java.",
+        "price": "$199",
+        "image_url": "https://i.postimg.cc/cL0B1WK3/dsalg.jpg"
+      },
+      {
+        "uid": "c004",
+        "category_id": "04",
+        "title": "Cybersecurity for Beginners",
+        "category": "Information Technology",
+        "instructor": "Alice Williams",
+        "duration": "12 weeks",
+        "description": "Explore the basics of cybersecurity and protect yourself from online threats.",
+        "price": "$249",
+        "image_url": "https://i.postimg.cc/ydsHvkWd/maxresdefault.jpg"
+      },
+      {
+        "uid": "c005",
+        "category_id": "01",
+        "title": "JavaScript Programming",
+        "category": "Programming Languages",
+        "instructor": "Mike Brown",
+        "duration": "8 weeks",
+        "description": "Learn to program dynamic web pages with JavaScript.",
+        "price": "$149",
+        "image_url": "https://i.postimg.cc/8s8wmrPX/javascript-programming-language-with-script-code-on-laptop-screen-graphic-free-vector.jpg"
+      },
+      {
+        "uid": "c006",
+        "category_id": "02",
+        "title": "Building Websites with WordPress",
+        "category": "Web Technology",
+        "instructor": "Jane Doe",
+        "duration": "6 weeks",
+        "description": "Learn to create websites with WordPress, the most popular CMS.",
+        "price": "$99",
+        "image_url": "https://i.postimg.cc/NMmWqY9n/Create-a-Word-Press-Website-Beginners-Guide.jpg"
+      },
+      {
+        "uid": "c007",
+        "category_id": "03",
+        "title": "Artificial Intelligence Fundamentals",
+        "category": "Computer Science",
+        "instructor": "Andrew Ng",
+        "duration": "12 weeks",
+        "description": "Learn the basics of AI and machine learning with this comprehensive course.",
+        "price": "$299",
+        "image_url": "https://i.postimg.cc/k4P7tTWk/Importance-of-Artificial-Intelligence.jpg"
+      },
+      {
+        "uid": "c008",
+        "category_id": "04",
+        "title": "Network Security",
+        "category": "Information Technology",
+        "instructor": "Bob Johnson",
+        "duration": "10 weeks",
+        "description": "Explore the best practices for securing networks and data from unauthorized access.",
+        "price": "$199",
+        "image_url": "https://i.postimg.cc/HxSHPdqC/image.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "01",
+        "category": "Programming Languages"
+    },
+    {
+        "id": "03",
+        "category": "Computer Science"
+    }
+    ,
+    {
+        "id": "04",
+        "category": "Information Technology"
+    }
+    ,
+    {
+        "id": "02",
+        "category": "Web Technology"
+    }
+]

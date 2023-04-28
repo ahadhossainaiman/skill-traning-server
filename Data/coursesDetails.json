@@ -1,0 +1,98 @@
+{
+  "courses": [
+    {
+      "uid": "c001",
+      "title": "Full Stack Web Development with React and Node.js",
+      "category": "Web Technology",
+      "instructor": "John Smith",
+      "duration": "12 weeks",
+      "description": "This course is designed to teach you full-stack web development using React and Node.js. You will learn how to create interactive front-end interfaces using React, and build server-side applications using Node.js. The course covers database integration, user authentication, and API development. By the end of the course, you will be able to build full-stack web applications from scratch. Technologies covered: React, Node.js, MongoDB, Express.js, RESTful APIs",
+      "price": "$299",
+      "image_url": "https://www.example.com/images/full-stack.jpg",
+      "technology": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "uid": "c002",
+      "title": "Artificial Intelligence Fundamentals",
+      "category": "Computer Science",
+      "instructor": "Jane Doe",
+      "duration": "8 weeks",
+      "description": "This course covers the fundamentals of Artificial Intelligence, including machine learning and deep learning. You will learn about different types of AI algorithms, including supervised and unsupervised learning, and how to use popular machine learning libraries such as TensorFlow and Scikit-learn. The course also covers ethical considerations in AI development. By the end of the course, you will have a strong foundation in AI and be able to build your own AI applications. Technologies covered: Python, TensorFlow, Scikit-learn",
+      "price": "$199",
+      "image_url": "https://www.example.com/images/ai.jpg",
+      "technology": ["Python", "TensorFlow", "Scikit-learn"]
+    },
+    {
+      "uid": "c003",
+      "title": "Java Programming for Beginners",
+      "category": "Programming Languages",
+      "instructor": "Bob Johnson",
+      "duration": "6 weeks",
+      "description": "This course is designed for beginners to learn Java programming. You will learn the basics of programming, including variables, loops, and functions, and how to write Java code. The course also covers object-oriented programming concepts such as inheritance and polymorphism. By the end of the course, you will have a strong foundation in Java programming and be able to build basic Java applications. Technologies covered: Java",
+      "price": "$99",
+      "image_url": "https://www.example.com/images/java.jpg",
+      "technology": ["Java"]
+    },
+    {
+      "uid": "c004",
+      "title": "Cybersecurity Fundamentals",
+      "category": "Information Technology",
+      "instructor": "Emily Davis",
+      "duration": "8 weeks",
+      "description": "This course covers the fundamentals of cybersecurity, including threat analysis, risk management, and security best practices. You will learn about common cybersecurity threats and how to protect against them. The course also covers compliance regulations such as HIPAA and GDPR. By the end of the course, you will have a solid understanding of cybersecurity and be able to implement security measures in your own organization. Technologies covered: N/A",
+      "price": "$149",
+      "image_url": "https://www.example.com/images/cybersecurity.jpg",
+      "technology": ["N/A"]
+    },
+    {
+      "uid": "c005",
+      "title": "Data Analytics with R",
+      "category": "Data Science",
+      "instructor": "David Lee",
+      "duration": "10 weeks",
+      "description": "This course is designed to teach you the basics of data analytics using R. You will learn how to manipulate data, create visualizations, and perform statistical analysis using R. The course also covers machine learning techniques such as regression and classification. By the end of the course, you will have a strong foundation in data analytics and be able to use R for your own data analysis projects. Technologies covered: R, ggplot2, dplyr, tidyr, caret",
+      "price": "$249",
+      "image_url": "https://www.example.com/images/data-analytics.jpg",
+      "technology": ["R", "ggplot2", "dplyr", "tidyr", "caret"]
+    },
+    {
+      "uid": "c006",
+      "title": "Mobile App Development with Flutter",
+      "category": "Mobile Development",
+      "instructor": "Samuel Kim",
+      "duration": "8 weeks",
+      "description": "This course covers mobile app development using Flutter, a popular mobile app development framework. You will learn how to create user interfaces, handle user input, and manage state using Flutter widgets. The course also covers mobile app architecture and deployment to app stores. By the end of the course, you will be able to create your own mobile apps using Flutter. Technologies covered: Flutter, Dart",
+      "price": "$199",
+      "image_url": "https://www.example.com/images/flutter.jpg",
+      "technology": ["Flutter", "Dart"]
+    },
+    {
+      "uid": "c007",
+      "title": "Database Design and Management",
+      "category": "Database Management",
+      "instructor": "Karen Lee",
+      "duration": "10 weeks",
+      "description": "This course covers the basics of database design and management, including data modeling, SQL, and database administration. You will learn how to design and create databases, write SQL queries to retrieve data, and manage database security and performance. The course also covers advanced topics such as NoSQL databases and big data management. By the end of the course, you will have a strong foundation in database design and management. Technologies covered: SQL, MySQL, NoSQL",
+      "price": "$249",
+      "image_url": "https://www.example.com/images/database.jpg",
+      "technology": ["SQL", "MySQL", "NoSQL"]
+    },
+    {
+      "uid": "c008",
+      "title": "Cloud Computing Fundamentals",
+      "category": "Cloud Computing",
+      "instructor": "Michael Brown",
+      "duration": "6 weeks",
+      "description": "This course covers the fundamentals of cloud computing, including cloud architecture, deployment models, and security considerations. You will learn about popular cloud computing platforms such as AWS and Azure, and how to deploy and manage applications on the cloud. The course also covers cloud migration strategies and cost optimization. By the end of the course, you will have a strong foundation in cloud computing and be able to leverage cloud technologies for your own applications. Technologies covered: AWS, Azure",
+      "price": "$149",
+      "image_url": "https://www.example.com/images/cloud.jpg",
+      "technology": ["AWS", "Azure"]
+    }
+  ]
+}
